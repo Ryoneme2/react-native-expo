@@ -1,6 +1,6 @@
 import { StyleSheet,StatusBar } from 'react-native';
 
-console.log(StatusBar.currentHeight);
+
 
 
 export const styles = StyleSheet.create({
